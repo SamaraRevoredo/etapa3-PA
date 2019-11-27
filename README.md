@@ -1,5 +1,6 @@
-#ProjetoPA_etapa03#
+ProjetoPA_etapa03
 Projeto etapa 03 da disciplina de Programação Avançada;
+
 professor: Agostinho Brito
 feito por: Paulo Eduardo e Samara Revoredo
 
